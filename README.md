@@ -1,5 +1,13 @@
 # End-to-End Retail Performance Analytics Dashboard
 
+## 📊 Final Interactive Dashboard Interface
+![Final Retail Analytics Dashboard](image_16ff37.png)
+*Figure 1: The finalized, polished executive view featuring responsive structural slicers, consistent shadow grouping, and dynamic city-wide performance metrics.*
+---
+## 📐 Backend Data Model (Star Schema)
+![Star Schema Data Model](image_177b38.png)
+*Figure 2: The production-ready backend layout showcasing normalized dimension tables linking cleanly to the core sales fact table.*
+
 ## 📊 Project Overview
 This repository contains a comprehensive retail analytics solution designed to transform raw transactional data into actionable business intelligence. Coming from an operational retail background, I built this executive-facing dashboard to analyze how promotional strategies, regional distributions, and store types impact overall business health and revenue generation.
 
@@ -51,9 +59,11 @@ Instead of splitting metrics across multiple pages, I engineered a unified, high
 ---
 
 ## 📂 Repository Contents
-* Retail_sales_analysis_project.pbix - The complete interactive Power BI dashboard file.
+* `Retail_sales_analysis_project.pbix` - The complete interactive Power BI dashboard file.
+* `retail_data_preparation.sql` - The backend SQL script used for data querying, transformation, and structural integrity checks.
 * `README.md` - Technical project documentation.
-
+* `image_177b38.png` - The Star Schema Data Model showing entity relationships ($1:N$).
+* `image_16ff37.png` - The finalized, polished executive dashboard overview.
 ---
 
 ## 🚀 Future Enhancements
