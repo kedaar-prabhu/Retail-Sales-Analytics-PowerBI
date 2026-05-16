@@ -1,5 +1,6 @@
 # End-to-End Retail Performance Analytics Dashboard
 
+
 ## 📊 Final Interactive Dashboard Interface
 ![Final Retail Analytics Dashboard](image_16ff37.png)
 *Figure 1: The finalized, polished executive view featuring responsive structural slicers, consistent shadow grouping, and dynamic city-wide performance metrics.*
